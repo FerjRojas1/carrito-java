@@ -23,12 +23,12 @@ Git & GitHub
 🚀 Cómo probarlo
 
 # Clonar
-git clone https://github.com/tu-usuario/proyecto-carrito.git
+git clone https://github.com/FerJRojas1/proyecto-carrito.git
 
 # Importar en Eclipse como Dynamic Web Project
 # Configurar Tomcat 9 y ejecutar en servidor
 
-URL: http://localhost:8080/proyecto-carrito/
+URL: http://localhost:8080/carrito-java/
 
 Datos: No requiere instalación de BD. Todo funciona en memoria con sesiones HTTP.
 
