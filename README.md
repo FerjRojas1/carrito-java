@@ -23,7 +23,7 @@ Git & GitHub
 🚀 Cómo probarlo
 
 # Clonar
-git clone https://github.com/FerJRojas1/proyecto-carrito.git
+git clone https://github.com/FerJRojas1/carrito-java.git
 
 # Importar en Eclipse como Dynamic Web Project
 # Configurar Tomcat 9 y ejecutar en servidor
